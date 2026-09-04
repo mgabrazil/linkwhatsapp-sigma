@@ -2,12 +2,12 @@
 
 :root {
   /* Paleta da landing. Trocar aqui muda a página inteira. */
-  --background: #779dff;
-  --foreground: #1e2d5f;
+  --background: #68C35C;
+  --foreground: #2E9420;
   --card: #ffffff;
-  --brand: #779dff;
+  --brand:#68C35C;
   /* Azul escuro do painel dos grupos. */
-  --navy: #1e2d5f;
+  --navy: #2E9420;
   /* Amarelo das estrelinhas, o mesmo do "U" da Unipaper. */
   --accent: #ffc800;
 }

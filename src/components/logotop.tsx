@@ -11,12 +11,12 @@ export function LogosTop() {
         className="h-[33px] w-auto sm:h-7"
       />
       <Image
-        src="/images/Logo-Objetivo.png"
+        src="/images/Logo-Sigma.png"
         alt="Objetivo"
         width={1695}
         height={268}
         priority
-        className="h-[20px] w-auto sm:h-5"
+        className="h-[47px] w-auto sm:h-5"
       />
     </div>
   );
