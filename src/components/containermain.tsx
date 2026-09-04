@@ -16,7 +16,7 @@ export function ContainerMain({ grupos }: { grupos: GrupoUnidade[] }) {
       </p>
 
       <Image
-        src="/images/florO.png"
+        src="/images/FlorO.png"
         alt=""
         width={213}
         height={213}
