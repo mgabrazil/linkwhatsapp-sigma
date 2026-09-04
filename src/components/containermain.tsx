@@ -20,7 +20,7 @@ export function ContainerMain({ grupos }: { grupos: GrupoUnidade[] }) {
         alt=""
         width={213}
         height={213}
-        className="absolute top-[39%] left-[81%] h-auto w-[58px] lg:top-[-5%] lg:left-[3%]"
+        className="absolute top-[39%] left-[82%] h-auto w-[52px] lg:top-[-6%] lg:left-[3%]"
       />
 
       <Image
@@ -28,7 +28,7 @@ export function ContainerMain({ grupos }: { grupos: GrupoUnidade[] }) {
         alt=""
         width={277}
         height={277}
-        className="absolute top-[97%] left-[75%] h-auto w-[55px] -translate-x-1/2 -translate-y-1/2 lg:top-[99%] lg:left-[92%]"
+        className="absolute top-[97%] left-[75%] h-auto w-[53px] -translate-x-1/2 -translate-y-1/2 lg:top-[99%] lg:left-[92%]"
       />
 
       <ul className="relative ml-[8.7%] w-[32.3%] space-y-[24%] lg:mx-auto lg:grid lg:w-fit lg:grid-cols-2 lg:space-y-0 lg:gap-x-8 lg:gap-y-6 lg:pt-[100px] lg:pb-[56px]">
