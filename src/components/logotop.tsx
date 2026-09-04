@@ -16,7 +16,7 @@ export function LogosTop() {
         width={1695}
         height={268}
         priority
-        className="h-[47px] w-auto sm:h-5"
+        className="h-[47px] w-auto sm:h-10"
       />
     </div>
   );
